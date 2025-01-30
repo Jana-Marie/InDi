@@ -33,7 +33,7 @@ As for the **ordered-dithering**, I wrote a kernel that, at each color-quantizat
 
 All in all, this works surprisingly well, more of the image may be ditherd depending on the kernel size.
 
-### Results
+#### Results
 
 ![out.png](out.png)
 
