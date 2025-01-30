@@ -41,7 +41,11 @@ All in all, this works surprisingly well, more of the image may be ditherd depen
 
 Images are CC BY-SA 4.0 by Jana M. Hemsing
 
-Code is GNU GPLv3 
+Code is GNU GPLv3
+
+#### Todo
+
+ - [ ] Provide a non-jupyter python example
 
 ---
 
