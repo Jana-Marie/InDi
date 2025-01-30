@@ -1,4 +1,5 @@
 # InDi
+## **In**dex-**Di**thering
 
 Faced with the problem of running a dithering algorythm on a limited hardware, an ESP32, I set out to find a new approach that does not involve iterating pixels. This is my finding and solution, **In**dex-**Di**thering.
 
